@@ -4,6 +4,8 @@
 書式は[Keep a Changelog](http://keepachangelog.com/)に基づいており、またこのプロジェクトは[Semantic Versioning](http://semver.org/)を遵守しています。
 
 ## [未リリース]
+### 変更
+- 大西配列とAZIKの共存の試みには先駆者様がいらっしゃったので、名称に「あすぱる式」の表記を追加しました。
 
 ## [0.2.0] - 2026-02-05
 ### 変更
