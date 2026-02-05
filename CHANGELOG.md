@@ -4,6 +4,10 @@
 書式は[Keep a Changelog](http://keepachangelog.com/)に基づいており、またこのプロジェクトは[Semantic Versioning](http://semver.org/)を遵守しています。
 
 ## [未リリース]
+### 変更
+- 「ー」「、」「。」の配置を大西配列と統一しました。
+- [OU]の配置を[P]から[R]に移動しました。
+- [UN]と[UU]の位置を逆転させました。
 
 ## [0.1.0] - 2026-02-05
 ### 追加
