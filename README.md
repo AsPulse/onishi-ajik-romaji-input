@@ -1,7 +1,7 @@
 <h1 align="center">あすぱる式大西AJIKローマ字入力</h1>
 <br />
 <p align="center">
-  <img alt="キー配列を示した画像。" src="./onishi-ajik-layout.svg" width="80%">
+  <img alt="キー配列を示した画像。" src="./aspulse-onishi-ajik-layout.svg" width="80%">
 </p>
 <br />
 
